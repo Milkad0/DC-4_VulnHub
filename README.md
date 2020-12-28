@@ -1,4 +1,4 @@
-# DC-4_VulnHub
+# DC-4 VulnHub
 ## Configuration
 
 ### Step 1 : Download
