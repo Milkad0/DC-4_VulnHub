@@ -32,13 +32,43 @@ I recommand to use a Kali VM to process the attack, you can found some preconfig
 
 ## Let's hack
 
-### Threat n°1
-### Threat n°2
-### Threat n°3
-### Threat n°4
-### Threat n°5
-### Threat n°6
-### Threat n°7
-### Threat n°8
-### Threat n°9
-### Threat n°10
+### Threat n°1 : Broken authentication | Using the http protocol
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
+### Threat n°2 : Broken authentication | Unsecured login / password
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
+### Threat n°3 : Broken authentication | BruteForce Attack
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
+### Threat n°4 : Security misconfiguration | Display of versions
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
+### Threat n°5 : Security misconfiguration | Vuln OpenSSH 7.4 or Nginx
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
+### Threat n°6 : Security misconfiguration | Vuln Kernel 4.9.0
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
+### Threat n°7 : Broken access control | Vuln Rights on folders / files
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
+### Threat n°8 : Sensitive data exposure | Transmission of important information in clear
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
+### Threat n°9 : Broken access control | Root rights of certain users for certain commands
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
+### Threat n°10 : Injection | OS command injection
+#### Vulnerability risk
+#### Operation
+#### Correction recommendation
