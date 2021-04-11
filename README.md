@@ -39,9 +39,6 @@ We notice an ip address in .5 which did not exist when the machine was down. We 
 
 ![image](https://user-images.githubusercontent.com/44178372/114249372-b411a280-999a-11eb-97e7-298c00cce2d1.png)
 
-The 2 VMs are mounted in NAT and are therefore on the same network. We will be able to analyze it with nmap to find out which address the DC4 machine has retrieved and to know a little more in details.
-List of network ip addresses with: nmap -sP 10.0.2.0/24
-We notice an ip address in .5 which did not exist when the machine was down. We will therefore use the –A option to have more information on it: nmap -A 10.0.2.5
 
 ![image](https://user-images.githubusercontent.com/44178372/114249383-becc3780-999a-11eb-92b1-e1ca1ed06203.png)
 
